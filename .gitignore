@@ -1,2 +1,3 @@
 swagger.md
-api.yml
+*api.yml
+!api.yml.sample
